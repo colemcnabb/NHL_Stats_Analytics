@@ -98,6 +98,5 @@ Interactive dashboards built using Tableau Public:
 - data/processed/  → Cleaned & aggregated datasets
 - sql/             → SQL data cleaning & analysis queries
 - img/             → Dashboard preview screenshots
-- docs/            → Internal notes and work logs
 - README.md        → Project overview (this file)
 
