@@ -94,9 +94,9 @@ Interactive dashboards built using Tableau Public:
 
 ## Repository Structure
 
-- data/raw/        → Original raw CSV files
-- data/processed/  → Cleaned & aggregated datasets
-- sql/             → SQL data cleaning & analysis queries
-- img/             → Dashboard preview screenshots
-- README.md        → Project overview (this file)
+- `data/raw/`        → Original raw CSV files
+- `data/processed/`  → Cleaned & aggregated datasets
+- `sql/`             → SQL data cleaning & analysis queries
+- `img/`             → Dashboard preview screenshots
+- `README.md`        → Project overview (this file)
 
